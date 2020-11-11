@@ -44,5 +44,5 @@ function frequnecyCounter(arr1, arr2) {
 let result1 = frequnecyCounter([1, 2, 3, 2], [9, 1, 4, 4]);
 let result2 = frequnecyCounter([1, 2, 3, 2, 5], [9, 1, 4, 4, 11]);
 
-console.log(result1); // should print true
-console.log(result2); // should print false
+console.log(result1); // Output: true
+console.log(result2); // Output: false
